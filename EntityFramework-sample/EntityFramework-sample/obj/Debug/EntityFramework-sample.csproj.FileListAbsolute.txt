@@ -1,0 +1,10 @@
+C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework-sample.exe.config
+C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework-sample.exe
+C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework-sample.pdb
+C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework.dll
+C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework.SqlServer.dll
+C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework.xml
+C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework.SqlServer.xml
+C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\obj\Debug\EntityFramework-sample.csprojResolveAssemblyReference.cache
+C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\obj\Debug\EntityFramework-sample.exe
+C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\obj\Debug\EntityFramework-sample.pdb
