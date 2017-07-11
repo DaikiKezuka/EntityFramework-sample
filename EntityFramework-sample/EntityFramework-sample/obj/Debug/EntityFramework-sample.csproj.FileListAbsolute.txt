@@ -8,3 +8,13 @@ C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\bin\Debug\Entit
 C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\obj\Debug\EntityFramework-sample.csprojResolveAssemblyReference.cache
 C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\obj\Debug\EntityFramework-sample.exe
 C:\work\SourceTree\EntityFramework-sample\EntityFramework-sample\obj\Debug\EntityFramework-sample.pdb
+C:\work\EntityFramework-sample\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework-sample.exe.config
+C:\work\EntityFramework-sample\EntityFramework-sample\EntityFramework-sample\obj\Debug\EntityFramework-sample.exe
+C:\work\EntityFramework-sample\EntityFramework-sample\EntityFramework-sample\obj\Debug\EntityFramework-sample.pdb
+C:\work\EntityFramework-sample\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework-sample.exe
+C:\work\EntityFramework-sample\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework-sample.pdb
+C:\work\EntityFramework-sample\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework.dll
+C:\work\EntityFramework-sample\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework.SqlServer.dll
+C:\work\EntityFramework-sample\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework.xml
+C:\work\EntityFramework-sample\EntityFramework-sample\EntityFramework-sample\bin\Debug\EntityFramework.SqlServer.xml
+C:\work\EntityFramework-sample\EntityFramework-sample\EntityFramework-sample\obj\Debug\EntityFramework-sample.csprojResolveAssemblyReference.cache
