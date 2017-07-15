@@ -16,6 +16,7 @@ namespace EntityFramework_sample
             Database.SetInitializer(
                 new DropCreateDatabaseIfModelChanges<ShoppingContext>());
             #endregion
+
             var product = new Product()
             {
                 Name = "TestItem",
@@ -44,7 +45,7 @@ namespace EntityFramework_sample
             //[MaxLength(200)]
             public string Name { get; set; }
             public int Price { get; set; }
-            public int Stock { get; set; }
+            //public int Stock { get; set; }
         }
 
         class ShoppingContext : DbContext
